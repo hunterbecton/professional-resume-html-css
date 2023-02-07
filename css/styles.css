@@ -218,7 +218,7 @@ body {
 }
 
 .experience__location {
-  display: inline;
+  display: inline-block;
   color: var(--neutral-six);
   margin-left: 1rem;
   font-size: 0.875rem;
